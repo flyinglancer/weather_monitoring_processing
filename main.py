@@ -56,7 +56,7 @@ from data_processing import process_weather_data, calculate_daily_summary
 from alerting import check_alert_conditions
 from storage import create_tables, store_weather_data, store_daily_summary
 
-API_KEY = 'feec9f4e44103a6e0728e2ec2deb6a7c'
+API_KEY = 'YOUR_API_KEY_HERE'
 CITIES = ['Delhi', 'Mumbai', 'Chennai', 'Bangalore', 'Kolkata', 'Hyderabad']
 THRESHOLD_TEMP = 35
 
