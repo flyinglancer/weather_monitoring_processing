@@ -42,7 +42,7 @@ weather_monitoring/
     pip install -r requirements.txt
 ## Configuration
   API Key Setup:
-    **Open weather_api.py and replace 'your_actual_api_key_here' with your OpenWeatherMap API key.**
+    **Open main.py and replace 'your_actual_api_key_here' with your OpenWeatherMap API key.**
 # Usage
    Run the Backend Script:
     First, run the backend script to collect and process weather data:
